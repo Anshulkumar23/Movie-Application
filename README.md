@@ -4,4 +4,6 @@ about movies around the Globe.
 • It will show us the Search & Overview about the
 movies.
 • The Application is based on API. It fetches data
-from TMDB API
+from IMDB API
+
+Website is live at https://anshulkumar.netlify.app/
